@@ -1,6 +1,6 @@
 package com.example.pokemon.data.remote.response
 
 data class GenerationVi(
-    val omegaruby-alphasapphire: OmegarubyAlphasapphire,
-    val x-y: XY
+    val omegarubyalphasapphire: OmegarubyAlphasapphire,
+    val xy: XY
 )
